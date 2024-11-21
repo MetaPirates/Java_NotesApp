@@ -7,4 +7,4 @@ Tech Stack:-
 3.Database- MySQL
 4.Servlets
 5.Java Server Pages
-6.HTML/CSS
+6.HTML/Bootstrap CSS
